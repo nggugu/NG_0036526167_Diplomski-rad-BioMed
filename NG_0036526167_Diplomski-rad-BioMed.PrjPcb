@@ -71,7 +71,7 @@ DocumentUniqueId=TGNIXVJH
 [Document2]
 DocumentPath=BLOCK-DIAGRAM.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=101
+AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -88,8 +88,8 @@ DocumentUniqueId=APEDKOLQ
 [Document3]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=201
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=101
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=2
@@ -105,8 +105,8 @@ DocumentUniqueId=QMIFZEUE
 [Document4]
 DocumentPath=CHARGER.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=301
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=201
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=3
@@ -122,8 +122,8 @@ DocumentUniqueId=ZGLIAZAA
 [Document5]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=401
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=301
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=4
@@ -139,8 +139,8 @@ DocumentUniqueId=FQGBXRQG
 [Document6]
 DocumentPath=SENSORS.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=501
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=401
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=5
@@ -156,8 +156,8 @@ DocumentUniqueId=YBJFIDQN
 [Document7]
 DocumentPath=WIRELESS.SchDoc
 AnnotationEnabled=0
-AnnotateStartValue=601
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=501
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=6
@@ -244,29 +244,29 @@ Description=Production
 AllowFabrication=0
 ParameterCount=0
 VariationCount=10
-Variation1=Designator=R203|UniqueId=\PYLQLFGG|Kind=1|AlternatePart= 
-Variation2=Designator=R204|UniqueId=\YXGJTCQI|Kind=1|AlternatePart= 
-Variation3=Designator=R504|UniqueId=\DBABEENB|Kind=1|AlternatePart= 
-Variation4=Designator=R215|UniqueId=\DLHMQWCQ|Kind=1|AlternatePart= 
-Variation5=Designator=R214|UniqueId=\ADGBRYYR|Kind=1|AlternatePart= 
-Variation6=Designator=R407|UniqueId=\IRPVYFCH|Kind=1|AlternatePart= 
-Variation7=Designator=R109|UniqueId=\FTBPBLXX|Kind=1|AlternatePart= 
-Variation8=Designator=R113|UniqueId=\HAHVUHLR|Kind=1|AlternatePart= 
-Variation9=Designator=R111|UniqueId=\TJDCJSKF|Kind=1|AlternatePart= 
-Variation10=Designator=R?|UniqueId=\CFNPZFJY|Kind=1|AlternatePart= 
+Variation1=Designator=R203|UniqueId=\CGNRVFCL|Kind=0|AlternatePart= 
+Variation2=Designator=R204|UniqueId=\VNOUGLBU|Kind=0|AlternatePart= 
+Variation3=Designator=R504|UniqueId=\SQIWJHAK|Kind=0|AlternatePart= 
+Variation4=Designator=R215|UniqueId=\WVLISEWG|Kind=0|AlternatePart= 
+Variation5=Designator=R214|UniqueId=\MPZVKROK|Kind=0|AlternatePart= 
+Variation6=Designator=R407|UniqueId=\COVURLSP|Kind=0|AlternatePart= 
+Variation7=Designator=R109|UniqueId=\YHIWVRAB|Kind=0|AlternatePart= 
+Variation8=Designator=R113|UniqueId=\WTIQIZAO|Kind=0|AlternatePart= 
+Variation9=Designator=R111|UniqueId=\MSVJLSPU|Kind=0|AlternatePart= 
+Variation10=Designator=R110|UniqueId=\CFNPZFJY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
-Name=Engineer
-Value=Nikola Gudan
+Name=Title
+Value=Wearable Measurement System for Detection and Classification of Speech Fluency Disorders - Bracelet
 
 [Parameter2]
 Name=Revision
 Value=A
 
 [Parameter3]
-Name=Title
-Value=Wearable Measurement System for Detection and Classification of Speech Fluency Disorders
+Name=Engineer
+Value=Nikola Gudan
 
 [Configuration1]
 Name=Sources
@@ -603,6 +603,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -1289,9 +1301,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=NG_Active.SchLib
-ComponentDesignItemID0=150060AS75000
-ComponentSymbolReference0=150060AS75000
+ComponentLibraryIdentifier0=NG_Mechanical.SchLib
+ComponentDesignItemID0=HEADER3X1
+ComponentSymbolReference0=HEADER3X1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=0
@@ -1310,7 +1322,7 @@ UpdateCurrentModels=1
 ParameterName0=Checked
 ParameterUpdate0=1
 ParameterName1=Comment
-ParameterUpdate1=0
+ParameterUpdate1=1
 ParameterName2=Component Kind
 ParameterUpdate2=1
 ParameterName3=Description
@@ -1332,7 +1344,7 @@ ParameterUpdate10=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=LED0603
+ModelName0=HDRV2W64P254_2X1_508X254X1150
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
