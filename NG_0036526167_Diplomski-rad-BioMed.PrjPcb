@@ -53,7 +53,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=TOP.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -104,7 +104,7 @@ DocumentUniqueId=QMIFZEUE
 
 [Document4]
 DocumentPath=CHARGER.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=201
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -256,17 +256,93 @@ Variation9=Designator=R111|UniqueId=\MSVJLSPU|Kind=0|AlternatePart=
 Variation10=Designator=R110|UniqueId=\CFNPZFJY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Design Rule Check - PCB_4-layer.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.RUL
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Title
-Value=Wearable Measurement System for Detection and Classification of Speech Fluency Disorders - Bracelet
+Name=Engineer
+Value=Nikola Gudan
 
 [Parameter2]
 Name=Revision
 Value=A
 
 [Parameter3]
-Name=Engineer
-Value=Nikola Gudan
+Name=Title
+Value=Wearable Measurement System for Detection and Classification of Speech Fluency Disorders - Bracelet
 
 [Configuration1]
 Name=Sources
@@ -1301,9 +1377,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=NG_Mechanical.SchLib
-ComponentDesignItemID0=HEADER3X1
-ComponentSymbolReference0=HEADER3X1
+ComponentLibraryIdentifier0=NG_Passive.SchLib
+ComponentDesignItemID0=RES0603-27-1
+ComponentSymbolReference0=RES0603-27-1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=0
@@ -1344,7 +1420,7 @@ ParameterUpdate10=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=HDRV2W64P254_2X1_508X254X1150
+ModelName0=RESC0603
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
