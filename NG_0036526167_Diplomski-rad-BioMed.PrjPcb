@@ -236,7 +236,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WMKZJVYB
 
 [Document12]
 DocumentPath=PCB_4-layer.PcbDoc
@@ -279,82 +279,86 @@ DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Design Rule 
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04-RoundHoles.TXT
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\NG_0036526167_Diplomski-rad-BioMed_BOM_2024-06-04.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04-SlotHoles.TXT
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.DRR
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.EXTREP
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.G1
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.G2
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.G1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBL
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.G2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBO
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBP
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBS
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GKO
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GM1
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GM3
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTL
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTO
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTP
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTS
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.LDP
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.REP
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.RUL
 DItemRevisionGUID=
 
@@ -1404,8 +1408,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=NG_Passive.SchLib
-ComponentDesignItemID0=RES0603-27-1
-ComponentSymbolReference0=RES0603-27-1
+ComponentDesignItemID0=RES0603-1M8-1
+ComponentSymbolReference0=RES0603-1M8-1
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=0
