@@ -53,7 +53,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=TOP.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -155,7 +155,7 @@ DocumentUniqueId=YBJFIDQN
 
 [Document7]
 DocumentPath=WIRELESS.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=501
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
@@ -243,7 +243,7 @@ UniqueID=703690D1-750E-4F24-8FD9-22DB9E9EF880
 Description=Production
 AllowFabrication=0
 ParameterCount=0
-VariationCount=10
+VariationCount=11
 Variation1=Designator=R203|UniqueId=\CGNRVFCL|Kind=0|AlternatePart= 
 Variation2=Designator=R204|UniqueId=\VNOUGLBU|Kind=0|AlternatePart= 
 Variation3=Designator=R504|UniqueId=\SQIWJHAK|Kind=0|AlternatePart= 
@@ -254,6 +254,7 @@ Variation7=Designator=R109|UniqueId=\YHIWVRAB|Kind=0|AlternatePart=
 Variation8=Designator=R113|UniqueId=\WTIQIZAO|Kind=0|AlternatePart= 
 Variation9=Designator=R111|UniqueId=\MSVJLSPU|Kind=0|AlternatePart= 
 Variation10=Designator=R110|UniqueId=\CFNPZFJY|Kind=1|AlternatePart= 
+Variation11=Designator=R503|UniqueId=\UJSKPKHE|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -329,6 +330,14 @@ DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Project Outputs for NG_0036526167_Diplomski-rad-BioMed\Fabrication\Gerbers\NG_0036526167_Diplomski-rad-BioMed_Gerbers_2024-06-04.RUL
 DItemRevisionGUID=
 
